@@ -1,0 +1,1 @@
+this a new example txt file for rename and delete.
